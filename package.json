@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "vite build --base=/vanilla-app-template/",
     "preview": "vite preview"
   },
@@ -12,7 +12,7 @@
     "vite": "^4.5.2",
     "glob": "^8.1.0"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Alexander Liashko <tochka114@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.0.5",
